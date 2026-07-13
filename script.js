@@ -1,5 +1,5 @@
 /* ============================================================
-   Safe Tech Loop — script.js
+   Safe Cycle Tech — script.js
    Vanilla JS only. No frameworks, no build step, GitHub Pages ready.
    Contact is direct (call/text/email) — no form, no backend,
    no GitHub token, no Gist, no JSON files needed.
