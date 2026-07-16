@@ -419,7 +419,7 @@ a { color: var(--moss); }
 .faq__item summary {
   cursor: pointer;
   font-weight: 600;
-  padding: 1rem 1.3rem;
+  padding: 1rem 3rem 1rem 1.3rem; /* extra right padding reserves space for the + icon */
   list-style: none;
   position: relative;
 }
